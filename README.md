@@ -1,5 +1,4 @@
 ## Hey there, I'm Rahaf ,a UI/UX Developer 
-# 💫 About Me:
 🎨I am a UI/UX Developer who is just starting my journey in design and development.<br>💡passionate about learning how to create simple, user-friendly, and meaningful digital experiences.<br>🛠️Currently building my skills through practice and small projects.
 
 
