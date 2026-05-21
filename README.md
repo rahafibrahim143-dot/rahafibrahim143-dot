@@ -1,7 +1,6 @@
-## Hey there, I'm Rahaf ,a UI/UX Developer 
+## Hey there, I'm Rahaf , a UI/UX Developer 
 🎨I am a UI/UX Developer who is just starting my journey in design and development.<br>💡passionate about learning how to create simple, user-friendly, and meaningful digital experiences.<br>🛠️Currently building my skills through practice and small projects.
-
-
+ 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rahaf-ibrahim-4358ab3a9) ![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)
 
